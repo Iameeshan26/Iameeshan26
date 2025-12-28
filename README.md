@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **I am Eeshan pavan karteek** currently an ✨ AI&ML🤖 ✨ student based in India. Learning the emerging technology in the field of AI&ML.
 
 - 🌱 I’m currently learning Machine Learning  
@@ -10,4 +9,3 @@
   . Playing Chess
   . Listening music
   . Trekking
--->
