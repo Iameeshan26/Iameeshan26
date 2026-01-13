@@ -1,4 +1,4 @@
-# Hi there # 👋
+# Hi there  👋
 
 `I am Eeshan pavan karteek` currently an ✨ AI&ML🤖 ✨ student based in India. Learning the emerging technology in the field of AI&ML.
 
